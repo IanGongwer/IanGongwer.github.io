@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">  
+    </head>
+    <body>
+<div class="background-image"></div>
+<div class="background-text">
+  <h1>Ian Gongwer</h1>
+  <p>My Portfolio</p>
+</div>
+<div class="projects"></div>
+    </body>
+</html>
